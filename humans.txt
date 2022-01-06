@@ -7,8 +7,8 @@ Jason Taylor jason@git.training @awesomejt
 
 # THANKS
 
-    <name>
-
+	Gracias a todos mis alumnos (?)
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
