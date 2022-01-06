@@ -12,5 +12,5 @@ This is a simple web project, deployment can be on any web or even local file sy
 Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
-2014 Git. Training - BUJES
+2014 Git. Training - BUJES. All right reserved.
 
