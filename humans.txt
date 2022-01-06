@@ -8,6 +8,7 @@ Jason Taylor jason@git.training @awesomejt
 # THANKS
 
 	Gracias a todos mis alumnos (?)
+	Please leave a review if you like this course
 	
 # TECHNOLOGY COLOPHON
 
